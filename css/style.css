@@ -1,0 +1,18 @@
+body {
+    background-color: slategrey;
+    color: aliceblue;
+    width: 100vw;
+    height: 100vh;
+}
+
+button {
+    background-color: aliceblue;
+    border:none;
+    border-radius: 5px;
+}
+
+a {
+    color: slategrey;
+}
+
+
