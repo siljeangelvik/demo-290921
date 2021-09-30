@@ -1,4 +1,6 @@
 # demo-290921
-demo project for noroff  
+First Demo 
 
-silje avena angelvik
+Owner: Silje Avena Angelvik
+
+https://angelvik.dev/
