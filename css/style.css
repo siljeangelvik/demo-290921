@@ -5,11 +5,16 @@ body {
     height: 100vh;
 }
 
-a {
+a h3 {
     background-color: aliceblue;
-    border:none;
+    border:2px;
     border-radius: 5px;
+    width: 120px;
     color: slategrey;
+}
+
+h1 a h3 {
+    position: center;
 }
 
 
