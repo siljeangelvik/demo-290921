@@ -18,10 +18,6 @@ Course Assignment: [GitHub](https://github.com/siljeangelvik/gamehub-caas) <br>
 Course Assignment: [Netlify](https://gamehub-course-assignment.netlify.app/index.html)
 
 
-
-
-
-
 ---
 
 #[Semester Project 1](https://cdn.discordapp.com/attachments/872021496938254376/968442625642352690/README.pdf): Community Science Museum
