@@ -1,0 +1,11 @@
+/* @formatter:off */
+
+section { display: flex; flex-direction: column; gap:120px; }
+
+.col { display: flex; flex-direction: column; gap: 30px 10px; max-width: 100%; }
+
+.box .col p, .box .col ul { max-width: fit-content; }
+.box .row { display: flex; flex-wrap: wrap; justify-content: center; }
+
+ul { display: flex; flex-direction: column; gap: 8px 0; }
+ul,li { text-decoration: none; list-style-type: none; }
